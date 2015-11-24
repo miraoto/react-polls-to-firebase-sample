@@ -1,0 +1,31 @@
+{
+  "name": "react-polls-to-firebase-sample",
+  "version": "0.0.1",
+  "description": "Code from the React tutorial.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miraoto/react-polls-to-firebase-sample.git"
+  },
+  "keywords": [
+    "react",
+    "firebase",
+    "example"
+  ],
+  "author": "miraoto",
+  "bugs": {
+    "url": "https://github.com/miraoto/react-polls-to-firebase-sample/issues"
+  },
+  "homepage": "https://github.com/miraoto/react-polls-to-firebase-sample",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
