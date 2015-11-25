@@ -1,7 +1,7 @@
 {
-  "name": "React and Firebase polls application sample",
+  "name": "React polls sample",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/miraoto/react-polls-to-firebase-sample",
-  "logo": "",
-  "keywords": ["node", "express", "static"]
+  "keywords": ["node", "express", "static", "react.js"],
+  "env": {}
 }
