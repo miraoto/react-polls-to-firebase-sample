@@ -7,6 +7,12 @@ Sample of the polls using react and firebase
 npm install
 ```
 
+Rename firebase rul(public/script/polls.js
+
+``` javascript
+var baasRef = new Firebase('https://yourfirebaseappname.firebaseio.com/');
+```
+
 ## Start
 
 ```
