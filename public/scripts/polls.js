@@ -1,4 +1,4 @@
-var baasRef = new Firebase('https://amber-torch-384.firebaseio.com/');
+var baasRef = new Firebase('https://yourfirebaseappname.firebaseio.com/');
 
 var PollBox = React.createClass({
   loadPollsFromServer: function() {
